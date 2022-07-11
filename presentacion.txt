@@ -1,0 +1,5 @@
+YO Gerson Daniel cree este texto,
+
+su funcion en servir de prueba.
+
+aqui empieza curso basico de git.
